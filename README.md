@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DOSDoug
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... UART control via Python; PowerShell, BASH, general scripting
+- 👀 I’m interested in ...security, hacking, home theater control and automation
+- 🌱 I’m currently learning ... UART control via Python; PowerShell, BASH, Ansible, general scripting
 - 💞️ I’m looking to collaborate on ... TBD
 - 📫 How to reach me ...
 
